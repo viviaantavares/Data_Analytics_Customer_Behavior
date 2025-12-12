@@ -1,4 +1,4 @@
-🛒 Descrição do Problema Comercial
+# 🛒 Descrição do Problema Comercial
 
 Uma empresa líder no setor de varejo busca entender melhor o comportamento de compra dos clientes para:
 
@@ -22,7 +22,7 @@ A empresa deseja descobrir quais fatores influenciam decisões e compras recorre
 🎯 Pergunta-guia do projeto
 Como a empresa pode usar os dados de compra dos consumidores para identificar tendências, melhorar o engajamento dos clientes e otimizar as estratégias de marketing e produto?
 
-📊 Resultados Esperados
+## 📊 Resultados Esperados
 
 1️⃣ Preparação e Modelagem de Dados (Python)
 •	Limpeza e tratamento dos dados brutos
